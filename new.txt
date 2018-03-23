@@ -3,3 +3,5 @@ Overview
 2. install Git Client
 3. demo of Git
 4. intro into GitHub
+
+added a new line
